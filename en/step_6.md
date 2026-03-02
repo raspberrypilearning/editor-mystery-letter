@@ -84,7 +84,7 @@ line_highlights: 47
 
 ### Tip
 
-You can see all the images your project by clicking on the image gallery icon. Use that name in your CSS. For example: `background-image: url('pink-pattern.png');`.
+You can see all the project images and file names by clicking on the image gallery icon. Use that name in your CSS.
 
 </div>
 
