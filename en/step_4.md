@@ -1,4 +1,4 @@
-<h2 class="c-project-heading--task">Resize and rotate</h2>
+<h2 class="c-project-heading--task">Resize, rotate and tilt</h2>
 
 --- task ---
 
@@ -21,6 +21,7 @@ Experiment with adding other classes to the `<span>` tags in your message:
 --- code ---
 ---
 language: html
+filename: index.html
 line_numbers: true
 line_number_start: 11
 line_highlights: 12

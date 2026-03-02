@@ -16,8 +16,10 @@ Change the example code to display your message by putting one word in each `<sp
 --- code ---
 ---
 language: html
+filename: index.html
 line_numbers: true
 line_number_start: 11
+line_highlights: 
 ---
 
 <p>

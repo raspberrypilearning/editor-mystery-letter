@@ -17,12 +17,13 @@ A class in HTML/CSS is a name you give to something so you can change how it loo
 
 --- task ---
 
-Try out different styles. For example, swap `magazine1` for `magazine2`, `comic`, or `newspaper`.
+Try out different styles. For example, swap `magazine1` for `magazine2`, or `newspaper`.
 --- /task ---
 
 --- code ---
 ---
 language: html
+filename: index.html
 line_numbers: true
 line_number_start: 11
 line_highlights: 12

@@ -1,6 +1,5 @@
 
-
-<h2 class="c-project-heading--task"></h2>
+<h2 class="c-project-heading--task">Edit the CSS</h2>
 
 --- task ---
 
@@ -28,6 +27,7 @@ In the **style.css** file, change how your words look by editing the properties.
 --- code ---
 ---
 language: css
+filename: style.css
 line_numbers: true
 line_number_start: 50
 
