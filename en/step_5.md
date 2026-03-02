@@ -30,7 +30,7 @@ language: css
 filename: style.css
 line_numbers: true
 line_number_start: 50
-
+line_highlights: 
 ---
 .medium {
   font-size: 20px;

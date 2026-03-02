@@ -1,4 +1,4 @@
-<h2 class="c-project-heading--task">Resize, rotate and tilt</h2>
+<h2 class="c-project-heading--task">Resize, rotate and tilt words</h2>
 
 --- task ---
 

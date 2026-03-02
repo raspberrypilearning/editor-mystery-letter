@@ -82,9 +82,6 @@ line_highlights: 29
 
 --- task ---
 
-Create another new class with your own style, and apply it to some of the words in your message. We have included two other image backgrounds for you to use if you want to:
-
-+ `rough-paper.png`
-+ `canvas.png`
+Create another new class with your own style, and apply it to some of the words in your message. 
 
 --- /task ---
