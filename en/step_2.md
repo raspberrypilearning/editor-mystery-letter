@@ -32,6 +32,7 @@ line_highlights:
   <span class="">much.</span>
 </p>
 --- /code ---
+</div>
 
 --- task ---
 
@@ -39,7 +40,7 @@ Click the **Run** button to test your code. See how the words have been styled t
 
 --- /task ---
 
-</div>
+
 
 <div class="c-project-output">
 
