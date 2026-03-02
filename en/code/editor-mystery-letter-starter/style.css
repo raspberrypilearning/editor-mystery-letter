@@ -30,19 +30,6 @@
   transform: tiltX(-10deg);
 }
 
-span {
-  display: inline-block;
-  margin: 8px;
-  box-shadow: 1px 2px 2px grey;
-}
-
-body {
-  background-color: white;
-  padding: 30px;
-  max-width: 350px;
-  margin: auto;
-}
-
 .newspaper {
   background-color: antiquewhite;
   font-family: "Times New Roman", Times, serif;
@@ -62,4 +49,17 @@ body {
   color: fuchsia;
   font-family: Verdana;
   font-weight: 900;
+}
+
+span {
+  display: inline-block;
+  margin: 8px;
+  box-shadow: 1px 2px 2px grey;
+}
+
+body {
+  background-color: white;
+  padding: 30px;
+  max-width: 350px;
+  margin: auto;
 }

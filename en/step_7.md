@@ -1,6 +1,4 @@
-
-
-<h2 class="c-project-heading--task">STEP TITLE</h2>
+<h2 class="c-project-heading--task">More challenges</h2>
 
 --- task ---
 
@@ -10,35 +8,22 @@ BRIEF SUMMARY OF STEP - one line
 
 --- task ---
 
-Change the `background-image` for `magazine2` to `canvas.png`. 
+Create an old-fashioned computer printout style and apply it to some of the words:
 
---- code ---
----
-language: css
-line_numbers: true
-line_number_start: 28
-line_highlights: 29
----
+![The word 'safe' on a background which is striped green and white.](images/letter-fonts-printout.png)
 
-.magazine2 {
-  background-image: url('canvas.png');
-  color: fuchsia;
-  font-family: Verdana;
-  font-weight: 900;
-}
-
---- /code ---
+Use the `VT323` font family from [http://jumpto.cc/web-fonts](http://jumpto.cc/web-fonts){:target="_blank"} and the `computer-paper.png` background image. 
 
 --- /task ---
+
 
 --- task ---
 
-Click **Run** to see what happens. 
+Create another new class with your own style, and apply it to some of the words in your message. We have included two other image backgrounds for you to use if you want to:
 
-![A message where the second word 'me' has a beige canvas background.](images/canvas.png)
-
-(If you prefer `pink-pattern.png` you can change it back.)
++ `rough-paper.png`
++ `canvas.png`
 
 --- /task ---
 
-
+--- /challenge ---
