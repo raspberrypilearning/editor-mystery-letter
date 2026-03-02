@@ -24,13 +24,13 @@ language: html
 filename: index.html
 line_numbers: true
 line_number_start: 11
-line_highlights: 12
+line_highlights: 12-14
 ---
 
 <p>
   <span class="magazine1 big">Beware</span>
-  <span class="rotateleft">of</span>
-  <span class="tiltright">the</span>
+  <span class="newspaper reallybig rotateleft">of</span>
+  <span class="magazine2 tiltright">the</span>
 
 --- /code ---
 
@@ -43,6 +43,6 @@ Click **Run** to see how your letter looks. Here is an example of how your lette
 
 <div class="c-project-output">
 
-![A mystery letter with multiple different styles, one for each word.](images/letter-challenge1.png)
+![A mystery letter with multiple different styles, one for each word.](images/step4.png)
 
 </div>

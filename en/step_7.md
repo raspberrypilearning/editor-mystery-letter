@@ -17,9 +17,7 @@ Create a new class for an old-fashioned computer printout style:
 ---
 language: css
 filename: style.css
-line_numbers: true
-line_number_start: 41
-line_highlights: 41-45
+line_numbers: false
 ---
 
 .computer {
@@ -32,20 +30,10 @@ line_highlights: 41-45
 
 </div>
 
-Then, add `class="computer"` to one or more words in your message.
+Then, add `class="computer"` to one or more words in your html message.
 
 --- /task ---
 
---- task ---
-
-Create another new class with your own style, and apply it to some words.
-
-You can use these background images too:
-
-+ `rough-paper.png`
-+ `canvas.png`
-
---- /task ---
 
 --- task ---
 

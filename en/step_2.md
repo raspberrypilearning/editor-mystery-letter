@@ -19,7 +19,7 @@ language: html
 filename: index.html
 line_numbers: true
 line_number_start: 11
-line_highlights: 
+line_highlights: 12-19
 ---
 <p>
   <span class="">Beware</span>
@@ -32,7 +32,6 @@ line_highlights:
   <span class="">much.</span>
 </p>
 --- /code ---
-</div>
 
 --- task ---
 
@@ -40,6 +39,7 @@ Click the **Run** button to test your code. See how the words have been styled t
 
 --- /task ---
 
+</div>
 
 
 <div class="c-project-output">

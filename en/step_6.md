@@ -17,12 +17,12 @@ In `newspaper`, experiment with changing the font. Replace `Times` with another 
 language: css
 filename: style.css
 line_numbers: true
-line_number_start: 28
-line_highlights: 29
+line_number_start: 32
+line_highlights: 34
 ---
 .newspaper {
   background-color: antiquewhite;
-  font-family: Times;
+  font-family: Chalkboard;
   font-weight: bold;
 }
 --- /code ---
@@ -40,8 +40,8 @@ Try transforming `magazine1` style changes the text to all uppercase (capital) l
 language: css
 filename: style.css
 line_numbers: true
-line_number_start: 28
-line_highlights: 29
+line_number_start: 38
+line_highlights: 43
 ---
 .magazine1 {
   background-color: teal;
@@ -65,8 +65,8 @@ Change the `background-image` for `magazine2` to `canvas.png`.
 language: css
 filename: style.css
 line_numbers: true
-line_number_start: 28
-line_highlights: 29
+line_number_start: 46
+line_highlights: 47
 ---
 .magazine2 {
   background-image: url('canvas.png');
@@ -80,8 +80,11 @@ line_highlights: 29
 --- /task ---
 
 
---- task ---
+<div class="c-project-callout c-project-callout--tip">
 
-Create another new class with your own style, and apply it to some of the words in your message. 
+### Tip
 
---- /task ---
+You can see all the images your project by clicking on the image gallery icon. Use that name in your CSS. For example: `background-image: url('pink-pattern.png');`.
+
+</div>
+

@@ -3,7 +3,7 @@
 
 --- task ---
 
-Rotate and tilt your words in the **style.css** file.
+Edit the CSS properties in **style.css** to change the size and slant of your words.
 
 --- /task ---
 
@@ -12,7 +12,7 @@ Rotate and tilt your words in the **style.css** file.
 
 Click on the file icon, and then the **style.css** file. This will open a new tab.
 
-![A mystery letter with multiple different styles, one for each word.](images/style-file.png)
+![Screen shot of editor](images/style-file.png)
 
 --- /task ---
 
@@ -30,37 +30,38 @@ language: css
 filename: style.css
 line_numbers: true
 line_number_start: 50
-line_highlights: 
+line_highlights: 53,58,63,69,73,77,81
 ---
-.medium {
-  font-size: 20px;
-  padding: 8px;
-}
 
-.big {
-  font-size: 30px;
+.medium {
+  font-size: 24px;
   padding: 10px;
 }
 
+.big {
+  font-size: 36px;
+  padding: 12px;
+}
+
 .reallybig {
-  font-size: 40px;
-  padding: 15px;
+  font-size: 52px;
+  padding: 18px;
 }
 
 .rotateleft {
-  transform: rotate(-5deg);
+  transform: rotate(-12deg);
 }
 
 .rotateright {
-  transform: rotate(5deg);
+  transform: rotate(12deg);
 }
 
 .tiltleft {
-  transform: tiltX(10deg);
+  transform: skewX(18deg);
 }
 
 .tiltright {
-  transform: tiltX(-10deg);
+  transform: skewX(-18deg);
 }
 
 --- /code ---
@@ -73,6 +74,6 @@ Click **Run** to see the changes. Experiment by changing the numbers to create d
 
 <div class="c-project-output">
 
-![A mystery letter with multiple different styles, one for each word.](images/letter-challenge1.png)
+![A mystery letter with multiple different styles, one for each word.](images/step5.png)
 
 </div>
