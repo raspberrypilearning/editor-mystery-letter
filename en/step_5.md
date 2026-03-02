@@ -1,94 +1,78 @@
-<h2 class="c-project-heading--task">STEP TITLE</h2>
+
+
+<h2 class="c-project-heading--task"></h2>
 
 --- task ---
 
-BRIEF SUMMARY OF STEP - one line
+Rotate and tilt your words in the **style.css** file.
 
 --- /task ---
 
-## Editing Classes 
 
 --- task ---
 
-Click on the 'style.css' tab. Find the style for the `newspaper` CSS class.
+Click on the file icon, and then the **style.css** file. This will open a new tab.
 
+![A mystery letter with multiple different styles, one for each word.](images/style-file.png)
+
+--- /task ---
+
+
+--- task ---
+
+In the **style.css** file, change how your words look by editing the properties. You can edit the `font-size`, or the `rotate` and `tilt` values. 
+
+--- /task ---
+
+<div class="c-project-code">
 --- code ---
 ---
 language: css
 line_numbers: true
-line_number_start: 14
----
+line_number_start: 50
 
-.newspaper {
-  background-color: antiquewhite;
-  font-family: "Times New Roman", Times, serif;
-  font-weight: bold;
+---
+.medium {
+  font-size: 20px;
+  padding: 8px;
+}
+
+.big {
+  font-size: 30px;
+  padding: 10px;
+}
+
+.reallybig {
+  font-size: 40px;
+  padding: 15px;
+}
+
+.rotateleft {
+  transform: rotate(-5deg);
+}
+
+.rotateright {
+  transform: rotate(5deg);
+}
+
+.tiltleft {
+  transform: tiltX(10deg);
+}
+
+.tiltright {
+  transform: tiltX(-10deg);
 }
 
 --- /code ---
-
-Notice that there's a dot before the name of the class in the CSS file but not in the `<span>` tag in your HTML document.
-
---- /task ---
-
-
-Now look for the other CSS classes that you used to style your mystery letter. 
 
 --- task ---
-
-Can you find out how the `magazine1` style changes the text to all uppercase (capital) letters?
-
---- collapse ---
---- 
-title: Answer
----
---- code ---
----
-language: css
-line_numbers: true
-line_number_start: 20
-line_highlights: 25
----
-
-.magazine1 {
-  background-color: teal;
-  color: white;
-  font-family: Verdana;
-  font-weight: 900;
-  text-transform: uppercase;
-}
-
---- /code ---
-
---- /collapse ---
+Click **Run** to see the changes. Experiment by changing the numbers to create different effects.
 
 --- /task ---
+</div>
 
---- task ---
+<div class="c-project-output">
 
-Can you find out how the `magazine2` style puts an image behind the text?
+![A mystery letter with multiple different styles, one for each word.](images/letter-challenge1.png)
 
---- collapse ---
---- 
-title: Answer
----
---- code ---
----
-language: css
-line_numbers: true
-line_number_start: 28
-line_highlights: 29
----
-
-.magazine2 {
-  background-image: url('pink-pattern.png');
-  color: fuchsia;
-  font-family: Verdana;
-  font-weight: 900;
-}
-
---- /code ---
-
---- /collapse ---
-
---- /task ---
+</div>

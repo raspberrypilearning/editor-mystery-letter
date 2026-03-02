@@ -12,7 +12,7 @@ Experiment with adding other classes to the `<span>` tags in your message:
 
 + `medium`, `big` or `reallybig` change the size.
 + `rotateleft`, `rotateright` rotates.
-+ `skewleft`, `skewright` distorts the words
++ `tiltleft`, `tiltright` distorts the words
 
 
 --- /task ---
@@ -30,7 +30,6 @@ line_highlights: 12
   <span class="magazine1 big">Meet</span>
   <span class="">me</span>
   <span class="">on</span>
-
 
 --- /code ---
 

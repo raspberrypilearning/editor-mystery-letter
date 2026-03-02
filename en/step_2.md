@@ -32,7 +32,6 @@ line_number_start: 11
 
 --- /code ---
 
-
 --- task ---
 
 Click the **Run** button to test your code. See how the words have been styled to look like they’ve been stuck onto the page.
@@ -42,7 +41,9 @@ Click the **Run** button to test your code. See how the words have been styled t
 </div>
 
 <div class="c-project-output">
+
 ![ADD](images/step2.png)
+
 </div>
 
 

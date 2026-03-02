@@ -1,50 +1,44 @@
 
 
-<h2 class="c-project-heading--task"></h2>
+<h2 class="c-project-heading--task">STEP TITLE</h2>
 
 --- task ---
 
-Rotate and skew (tilt) your words in CSS.
+BRIEF SUMMARY OF STEP - one line
 
 --- /task ---
 
 --- task ---
 
-Experiment with the CSS classes that rotate and ske
-
+Change the `background-image` for `magazine2` to `canvas.png`. 
 
 --- code ---
 ---
 language: css
 line_numbers: true
-line_number_start: 50
-
+line_number_start: 28
+line_highlights: 29
 ---
-.rotateleft {
-  transform: rotate(-5deg);
-}
 
-.rotateright {
-  transform: rotate(5deg);
-}
-
-.skewleft {
-  transform: skewX(10deg);
-}
-
-.skewright {
-  transform: skewX(-10deg);
+.magazine2 {
+  background-image: url('canvas.png');
+  color: fuchsia;
+  font-family: Verdana;
+  font-weight: 900;
 }
 
 --- /code ---
-
-Try changing the numbers to create different effects.
 
 --- /task ---
 
 --- task ---
 
-Click **Run** to see the changes.
+Click **Run** to see what happens. 
+
+![A message where the second word 'me' has a beige canvas background.](images/canvas.png)
+
+(If you prefer `pink-pattern.png` you can change it back.)
 
 --- /task ---
+
 
