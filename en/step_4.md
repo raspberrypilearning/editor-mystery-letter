@@ -1,187 +1,48 @@
-<h2 class="c-project-heading--task">STEP TITLE</h2>
+<h2 class="c-project-heading--task">Resize and rotate</h2>
 
 --- task ---
 
-BRIEF SUMMARY OF STEP - one line
+Add the `big` class to the same `<span>` tag. 
 
 --- /task ---
 
-## Editing Classes 
-
 --- task ---
 
-Click on the __'style.css'__ tab. Find the style for the `newspaper` CSS class.
+Experiment with adding other classes to the `<span>` tags in your message: 
 
++ `medium`, `big` or `reallybig` change the size.
++ `rotateleft`, `rotateright` rotates.
++ `skewleft`, `skewright` distorts the words
+
+
+--- /task ---
+
+<div class="c-project-code">
 --- code ---
 ---
-language: css
+language: html
 line_numbers: true
-line_number_start: 14
+line_number_start: 11
+line_highlights: 12
 ---
 
-.newspaper {
-  background-color: antiquewhite;
-  font-family: "Times New Roman", Times, serif;
-  font-weight: bold;
-}
+<p>
+  <span class="magazine1 big">Meet</span>
+  <span class="">me</span>
+  <span class="">on</span>
+
 
 --- /code ---
 
-Notice that there's a dot before the name of the class in the CSS file but not in the `<span>` tag in your HTML document.
-
---- /task ---
-
-
-Now look for the other CSS classes that you used to style your mystery letter. 
-
 --- task ---
 
-Can you find out how the `magazine1` style changes the text to all uppercase (capital) letters?
-
---- collapse ---
---- 
-title: Answer
----
---- code ---
----
-language: css
-line_numbers: true
-line_number_start: 20
-line_highlights: 25
----
-
-.magazine1 {
-  background-color: teal;
-  color: white;
-  font-family: Verdana;
-  font-weight: 900;
-  text-transform: uppercase;
-}
-
---- /code ---
-
---- /collapse ---
+Click **Run** to see how your letter looks. Here is an example of how your letter could look:
 
 --- /task ---
+</div>
 
---- task ---
+<div class="c-project-output">
 
-Can you find out how the `magazine2` style puts an image behind the text?
+![A mystery letter with multiple different styles, one for each word.](images/letter-challenge1.png)
 
---- collapse ---
---- 
-title: Answer
----
---- code ---
----
-language: css
-line_numbers: true
-line_number_start: 28
-line_highlights: 29
----
-
-.magazine2 {
-  background-image: url('pink-pattern.png');
-  color: fuchsia;
-  font-family: Verdana;
-  font-weight: 900;
-}
-
---- /code ---
-
---- /collapse ---
-
---- /task ---
-
-
-<h2 class="c-project-heading--task">STEP TITLE</h2>
-
---- task ---
-
-BRIEF SUMMARY OF STEP - one line
-
---- /task ---
-
---- task ---
-
-Change the `background-image` for `magazine2` to `canvas.png`. 
-
---- code ---
----
-language: css
-line_numbers: true
-line_number_start: 28
-line_highlights: 29
----
-
-.magazine2 {
-  background-image: url('canvas.png');
-  color: fuchsia;
-  font-family: Verdana;
-  font-weight: 900;
-}
-
---- /code ---
-
---- /task ---
-
---- task ---
-
-Click **Run** to see what happens. 
-
-![A message where the second word 'me' has a beige canvas background.](images/canvas.png)
-
-(If you prefer `pink-pattern.png` you can change it back.)
-
---- /task ---
-
-
-
-
-<h2 class="c-project-heading--task">STEP TITLE</h2>
-
---- task ---
-
-BRIEF SUMMARY OF STEP - one line
-
---- /task ---
-
---- task ---
-
-Find the CSS classes that rotate and skew (tilt) your words:
-
---- code ---
----
-language: css
-line_numbers: true
-line_number_start: 50
-
----
-.rotateleft {
-  transform: rotate(-5deg);
-}
-
-.rotateright {
-  transform: rotate(5deg);
-}
-
-.skewleft {
-  transform: skewX(10deg);
-}
-
-.skewright {
-  transform: skewX(-10deg);
-}
-
---- /code ---
-
-Try changing the numbers to create different effects.
-
---- /task ---
-
---- task ---
-
-Click **Run** to see the changes.
-
---- /task ---
-
+</div>

@@ -1,25 +1,8 @@
-<h2 class="c-project-heading--task">STEP TITLE</h2>
+<h2 class="c-project-heading--task">Make a message</h2>
 
 --- task ---
 
-BRIEF SUMMARY OF STEP - one line
-
---- /task ---
-
-
-## Edit the message
-
-Mystery letters are used in films and books to send secret messages. 
-
---- task ---
-
-Open the [starter project](https://editor.raspberrypi.org/en/projects/mystery-letter-starter){:target="_blank"}.
-
---- /task ---
-
---- task ---
-
-Think of your own mystery message.
+Think of your own mystery message and add it to the code. 
 
 --- /task ---
 
@@ -27,6 +10,9 @@ Think of your own mystery message.
 
 Change the example code to display your message by putting one word in each `<span>`. You will need to add or remove `<span>` tags if your message is a different length. 
 
+--- /task ---
+
+<div class="c-project-code">
 --- code ---
 ---
 language: html
@@ -47,13 +33,16 @@ line_number_start: 11
 --- /code ---
 
 
---- /task ---
-
 --- task ---
 
-Click the **Run** button to test your code.
-
-The words have been styled to look like they’ve been stuck onto the page.
+Click the **Run** button to test your code. See how the words have been styled to look like they’ve been stuck onto the page.
 
 --- /task ---
+
+</div>
+
+<div class="c-project-output">
+![ADD](images/step2.png)
+</div>
+
 
