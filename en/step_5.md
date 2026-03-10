@@ -66,11 +66,12 @@ line_highlights: 53,58,63,69,73,77,81
 
 --- /code ---
 
+</div>
+
 --- task ---
 Click **Run** to see the changes. Experiment by changing the numbers to create different effects.
 
 --- /task ---
-</div>
 
 <div class="c-project-output">
 

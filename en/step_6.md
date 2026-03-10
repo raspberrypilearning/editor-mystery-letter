@@ -27,6 +27,8 @@ line_highlights: 34
 }
 --- /code ---
 
+</div>
+
 --- /task ---
 
 
@@ -51,6 +53,8 @@ line_highlights: 43
   text-transform: uppercase;
 }
 --- /code ---
+
+</div>
 
 --- /task ---
 
@@ -77,6 +81,8 @@ line_highlights: 47
 
 --- /code ---
 
+</div>
+
 --- /task ---
 
 
@@ -87,4 +93,3 @@ line_highlights: 47
 You can see all the project images and file names by clicking on the image gallery icon. Use that name in your CSS.
 
 </div>
-

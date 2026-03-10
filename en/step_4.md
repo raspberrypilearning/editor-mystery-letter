@@ -34,12 +34,13 @@ line_highlights: 12-14
 
 --- /code ---
 
+</div>
+
 --- task ---
 
 Click **Run** to see how your letter looks. Here is an example of how your letter could look:
 
 --- /task ---
-</div>
 
 <div class="c-project-output">
 

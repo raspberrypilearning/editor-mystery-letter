@@ -33,13 +33,13 @@ line_highlights: 12-19
 </p>
 --- /code ---
 
+</div>
+
 --- task ---
 
 Click the **Run** button to test your code. See how the words have been styled to look like they’ve been stuck onto the page.
 
 --- /task ---
-
-</div>
 
 
 <div class="c-project-output">
@@ -47,5 +47,4 @@ Click the **Run** button to test your code. See how the words have been styled t
 ![ADD](images/step2.png)
 
 </div>
-
 

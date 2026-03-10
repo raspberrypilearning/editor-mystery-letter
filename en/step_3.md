@@ -37,13 +37,13 @@ line_highlights: 12-14
 
 --- /code ---
 
+</div>
+
 --- task ---
 
 Click **Run** to see how the words change. Keep trying different style class names until you find one you like.
 
 --- /task ---
-
-</div>
 
 <div class="c-project-output">
 
