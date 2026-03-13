@@ -13,7 +13,7 @@ Click **Run** to try it out below.
 --- /task ---
 
 <div class="c-project-output">
-<iframe src="https://editor.raspberrypi.org/en/embed/viewer/mystery-letter-complete" width="100%" height="900" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/editor-mystery-letter-complete" width="100%" height="900" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 </div>
 
 
