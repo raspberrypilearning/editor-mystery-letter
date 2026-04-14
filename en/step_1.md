@@ -1,26 +1,46 @@
-<h2 class="c-project-heading--task">What you will make</h2>
+<h2 class="c-project-heading--task">Make a message</h2>
 
---- task ---
+### Step 1
 
-Create a mystery letter that looks like each word has been cut from a different newspaper, magazine, comic or other source.
+Think of your own mystery message and add it to the code. 
 
---- /task ---
 
---- task ---
+### Step 2
 
-Click **Run** to try it out below.
+Change the example code to display your message by putting one word in each `<span>`. You will need to add or remove `<span>` tags if your message is a different length. 
 
---- /task ---
 
-<div class="c-project-output">
-<iframe src="https://editor.raspberrypi.org/en/embed/viewer/editor-mystery-letter-complete" width="100%" height="900" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
+<div class="c-project-code">
+--- code ---
+---
+language: html
+filename: index.html
+line_numbers: true
+line_number_start: 11
+line_highlights: 12-19
+---
+<p>
+  <span class="">Beware</span>
+  <span class="">of</span>
+  <span class="">the</span>
+  <span class="">llamas</span>
+  <span class="">they</span>
+  <span class="">know</span>
+  <span class="">too</span>
+  <span class="">much.</span>
+</p>
+--- /code ---
+
 </div>
 
+### Step 3
+
+Click the **Run** button to test your code. See how the words have been styled to look like they’ve been stuck onto the page.
 
 
 
+<div class="c-project-output">
 
+![ADD](images/step2.png)
 
-
-
-
+</div>

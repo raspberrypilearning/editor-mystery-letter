@@ -1,16 +1,22 @@
-<h2 class="c-project-heading--task">Make a message</h2>
+<h2 class="c-project-heading--task">Style the words</h2>
 
---- task ---
+### Step 1
 
-Think of your own mystery message and add it to the code. 
+Add the `magazine1` **class** to style the first `<span>` tag.
 
---- /task ---
 
---- task ---
 
-Change the example code to display your message by putting one word in each `<span>`. You will need to add or remove `<span>` tags if your message is a different length. 
+<div class="c-project-callout c-project-callout--tip">
 
---- /task ---
+### Tip
+
+A class in HTML/CSS is a name you give to something so you can change how it looks.
+
+</div>
+
+### Step 2
+
+Try out different styles. For example, swap `magazine1` for `magazine2`, or `newspaper`.
 
 <div class="c-project-code">
 --- code ---
@@ -19,32 +25,25 @@ language: html
 filename: index.html
 line_numbers: true
 line_number_start: 11
-line_highlights: 12-19
+line_highlights: 12-14
 ---
+
 <p>
-  <span class="">Beware</span>
-  <span class="">of</span>
-  <span class="">the</span>
-  <span class="">llamas</span>
-  <span class="">they</span>
-  <span class="">know</span>
-  <span class="">too</span>
-  <span class="">much.</span>
-</p>
+  <span class="magazine1">Beware</span>
+  <span class="newspaper">of</span>
+  <span class="magazine2">the</span>
+
 --- /code ---
 
 </div>
 
---- task ---
+### Step 3
 
-Click the **Run** button to test your code. See how the words have been styled to look like they’ve been stuck onto the page.
-
---- /task ---
+Click **Run** to see how the words change. Keep trying different style class names until you find one you like.
 
 
 <div class="c-project-output">
 
-![ADD](images/step2.png)
+![The message 'Meet me on the corner at midnight.' The first word is written in capitals in a white font on a green background.](images/step3.png)
 
 </div>
-

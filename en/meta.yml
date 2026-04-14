@@ -16,17 +16,18 @@ hardware: ''
 software: html-css-javascript
 version: 3.1
 last_tested: 2025-01-02
+landing: true
 steps:
-- title: Step 1
-- title: Step 2
-  completion:
-  - engaged
-- title: Step 3
-- title: Step 4
-- title: Step 5
-- title: Step 6
-  completion:
-  - internal
-  - external
-- title: Step 7
-  challenge: true
+  - title: Make a message
+  - title: Style the words
+    completion:
+      - engaged
+  - title: "Resize, rotate and tilt words"
+  - title: Edit the CSS
+    completion:
+      - internal
+  - title: Challenges
+    completion:
+      - external
+  - title: "More challenge: make a style"
+    challenge: true

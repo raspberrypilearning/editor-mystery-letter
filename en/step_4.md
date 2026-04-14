@@ -1,49 +1,76 @@
-<h2 class="c-project-heading--task">Resize, rotate and tilt words</h2>
 
---- task ---
+<h2 class="c-project-heading--task">Edit the CSS</h2>
 
-Add the `big` class to the same `<span>` tag. 
+### Step 1
 
---- /task ---
-
---- task ---
-
-Experiment with adding other classes to the `<span>` tags in your message: 
-
-+ `medium`, `big` or `reallybig` change the size.
-+ `rotateleft`, `rotateright` rotates.
-+ `tiltleft`, `tiltright` distorts the words
+Edit the CSS properties in **style.css** to change the size and slant of your words.
 
 
---- /task ---
+
+### Step 2
+
+Click on the file icon, and then the **style.css** file. This will open a new tab.
+
+![Screen shot of editor](images/style-file.png)
+
+
+
+### Step 3
+
+In the **style.css** file, change how your words look by editing the properties. You can edit the `font-size`, or the `rotate` and `tilt` values. 
+
 
 <div class="c-project-code">
 --- code ---
 ---
-language: html
-filename: index.html
+language: css
+filename: style.css
 line_numbers: true
-line_number_start: 11
-line_highlights: 12-14
+line_number_start: 50
+line_highlights: 53,58,63,69,73,77,81
 ---
 
-<p>
-  <span class="magazine1 big">Beware</span>
-  <span class="newspaper reallybig rotateleft">of</span>
-  <span class="magazine2 tiltright">the</span>
+.medium {
+  font-size: 24px;
+  padding: 10px;
+}
+
+.big {
+  font-size: 36px;
+  padding: 12px;
+}
+
+.reallybig {
+  font-size: 52px;
+  padding: 18px;
+}
+
+.rotateleft {
+  transform: rotate(-12deg);
+}
+
+.rotateright {
+  transform: rotate(12deg);
+}
+
+.tiltleft {
+  transform: skewX(18deg);
+}
+
+.tiltright {
+  transform: skewX(-18deg);
+}
 
 --- /code ---
 
 </div>
 
---- task ---
+### Step 4
+Click **Run** to see the changes. Experiment by changing the numbers to create different effects.
 
-Click **Run** to see how your letter looks. Here is an example of how your letter could look:
-
---- /task ---
 
 <div class="c-project-output">
 
-![A mystery letter with multiple different styles, one for each word.](images/step4.png)
+![A mystery letter with multiple different styles, one for each word.](images/step5.png)
 
 </div>

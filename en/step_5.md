@@ -1,27 +1,14 @@
+<h2 class="c-project-heading--task">Challenges</h2>
 
-<h2 class="c-project-heading--task">Edit the CSS</h2>
+### Step 1
 
---- task ---
-
-Edit the CSS properties in **style.css** to change the size and slant of your words.
-
---- /task ---
+Now look for the other CSS classes that you used to style your mystery letter. 
 
 
---- task ---
 
-Click on the file icon, and then the **style.css** file. This will open a new tab.
+### Step 2
 
-![Screen shot of editor](images/style-file.png)
-
---- /task ---
-
-
---- task ---
-
-In the **style.css** file, change how your words look by editing the properties. You can edit the `font-size`, or the `rotate` and `tilt` values. 
-
---- /task ---
+In `newspaper`, experiment with changing the font. Replace `Times` with another font such as `Comic Sans MS`, `Chalkboard`, `Impact`, `Courier New`
 
 <div class="c-project-code">
 --- code ---
@@ -29,52 +16,76 @@ In the **style.css** file, change how your words look by editing the properties.
 language: css
 filename: style.css
 line_numbers: true
-line_number_start: 50
-line_highlights: 53,58,63,69,73,77,81
+line_number_start: 32
+line_highlights: 34
 ---
-
-.medium {
-  font-size: 24px;
-  padding: 10px;
+.newspaper {
+  background-color: antiquewhite;
+  font-family: Chalkboard;
+  font-weight: bold;
 }
+--- /code ---
 
-.big {
-  font-size: 36px;
-  padding: 12px;
+</div>
+
+
+
+### Step 3
+
+Try transforming `magazine1` style changes the text to all uppercase (capital) letters?
+
+<div class="c-project-code">
+--- code ---
+---
+language: css
+filename: style.css
+line_numbers: true
+line_number_start: 38
+line_highlights: 43
+---
+.magazine1 {
+  background-color: teal;
+  color: white;
+  font-family: Verdana;
+  font-weight: 900;
+  text-transform: uppercase;
 }
+--- /code ---
 
-.reallybig {
-  font-size: 52px;
-  padding: 18px;
-}
+</div>
 
-.rotateleft {
-  transform: rotate(-12deg);
-}
 
-.rotateright {
-  transform: rotate(12deg);
-}
 
-.tiltleft {
-  transform: skewX(18deg);
-}
+### Step 4
 
-.tiltright {
-  transform: skewX(-18deg);
+Change the `background-image` for `magazine2` to `canvas.png`. 
+
+<div class="c-project-code">
+--- code ---
+---
+language: css
+filename: style.css
+line_numbers: true
+line_number_start: 46
+line_highlights: 47
+---
+.magazine2 {
+  background-image: url('canvas.png');
+  color: fuchsia;
+  font-family: Verdana;
+  font-weight: 900;
 }
 
 --- /code ---
 
 </div>
 
---- task ---
-Click **Run** to see the changes. Experiment by changing the numbers to create different effects.
 
---- /task ---
 
-<div class="c-project-output">
+<div class="c-project-callout c-project-callout--tip">
 
-![A mystery letter with multiple different styles, one for each word.](images/step5.png)
+### Tip
+
+You can see all the project images and file names by clicking on the image gallery icon. Use that name in your CSS.
 
 </div>

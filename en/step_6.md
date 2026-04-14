@@ -1,95 +1,38 @@
-<h2 class="c-project-heading--task">Challenges</h2>
+<h2 class="c-project-heading--task">More challenge: make a style</h2>
 
---- task ---
+### Step 1
 
-Now look for the other CSS classes that you used to style your mystery letter. 
-
---- /task ---
+Create a computer printout style and invent your own extra style for your mystery letter.
 
 
---- task ---
+### Step 2
+Create a new class for an old-fashioned computer printout style:
 
-In `newspaper`, experiment with changing the font. Replace `Times` with another font such as `Comic Sans MS`, `Chalkboard`, `Impact`, `Courier New`
-
-<div class="c-project-code">
---- code ---
----
-language: css
-filename: style.css
-line_numbers: true
-line_number_start: 32
-line_highlights: 34
----
-.newspaper {
-  background-color: antiquewhite;
-  font-family: Chalkboard;
-  font-weight: bold;
-}
---- /code ---
-
-</div>
-
---- /task ---
-
-
---- task ---
-
-Try transforming `magazine1` style changes the text to all uppercase (capital) letters?
+- Use the `VT323` font from [http://jumpto.cc/web-fonts](http://jumpto.cc/web-fonts){:target="_blank"}
+- Use the `computer-paper.png` background image
 
 <div class="c-project-code">
 --- code ---
 ---
 language: css
 filename: style.css
-line_numbers: true
-line_number_start: 38
-line_highlights: 43
+line_numbers: false
 ---
-.magazine1 {
-  background-color: teal;
-  color: white;
-  font-family: Verdana;
-  font-weight: 900;
-  text-transform: uppercase;
-}
---- /code ---
 
-</div>
-
---- /task ---
-
-
---- task ---
-
-Change the `background-image` for `magazine2` to `canvas.png`. 
-
-<div class="c-project-code">
---- code ---
----
-language: css
-filename: style.css
-line_numbers: true
-line_number_start: 46
-line_highlights: 47
----
-.magazine2 {
-  background-image: url('canvas.png');
-  color: fuchsia;
-  font-family: Verdana;
-  font-weight: 900;
+.computer {
+  color: black;
+  background-image: url('computer-paper.png');
+  font-family: "VT323", serif;
 }
 
 --- /code ---
 
 </div>
 
---- /task ---
+Then, add `class="computer"` to one or more words in your html message.
 
 
-<div class="c-project-callout c-project-callout--tip">
 
-### Tip
+### Step 3
 
-You can see all the project images and file names by clicking on the image gallery icon. Use that name in your CSS.
-
-</div>
+Click **Run** and check at least one word uses your printout style and at least one word uses your own new style.

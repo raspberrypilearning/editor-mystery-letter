@@ -1,24 +1,19 @@
-<h2 class="c-project-heading--task">Style the words</h2>
+<h2 class="c-project-heading--task">Resize, rotate and tilt words</h2>
 
---- task ---
+### Step 1
 
-Add the `magazine1` **class** to style the first `<span>` tag.
-
---- /task ---
+Add the `big` class to the same `<span>` tag. 
 
 
-<div class="c-project-callout c-project-callout--tip">
+### Step 2
 
-### Tip
+Experiment with adding other classes to the `<span>` tags in your message: 
 
-A class in HTML/CSS is a name you give to something so you can change how it looks.
++ `medium`, `big` or `reallybig` change the size.
++ `rotateleft`, `rotateright` rotates.
++ `tiltleft`, `tiltright` distorts the words
 
-</div>
 
---- task ---
-
-Try out different styles. For example, swap `magazine1` for `magazine2`, or `newspaper`.
---- /task ---
 
 <div class="c-project-code">
 --- code ---
@@ -31,22 +26,21 @@ line_highlights: 12-14
 ---
 
 <p>
-  <span class="magazine1">Beware</span>
-  <span class="newspaper">of</span>
-  <span class="magazine2">the</span>
+  <span class="magazine1 big">Beware</span>
+  <span class="newspaper reallybig rotateleft">of</span>
+  <span class="magazine2 tiltright">the</span>
 
 --- /code ---
 
 </div>
 
---- task ---
+### Step 3
 
-Click **Run** to see how the words change. Keep trying different style class names until you find one you like.
+Click **Run** to see how your letter looks. Here is an example of how your letter could look:
 
---- /task ---
 
 <div class="c-project-output">
 
-![The message 'Meet me on the corner at midnight.' The first word is written in capitals in a white font on a green background.](images/step3.png)
+![A mystery letter with multiple different styles, one for each word.](images/step4.png)
 
 </div>
