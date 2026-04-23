@@ -1,11 +1,10 @@
 <h2 class="c-project-heading--task">Resize, rotate and tilt words</h2>
 
-### Step 1
+Add the `big` class to the same `<span>` tag.
 
-Add the `big` class to the same `<span>` tag. 
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
 
-
-### Step 2
+## Step 1
 
 Experiment with adding other classes to the `<span>` tags in your message: 
 
@@ -34,7 +33,7 @@ line_highlights: 12-14
 
 </div>
 
-### Step 3
+## Step 2
 
 Click **Run** to see how your letter looks. Here is an example of how your letter could look:
 
@@ -44,3 +43,7 @@ Click **Run** to see how your letter looks. Here is an example of how your lette
 ![A mystery letter with multiple different styles, one for each word.](images/step4.png)
 
 </div>
+
+## Now run your code
+
+Confirm the observable result.

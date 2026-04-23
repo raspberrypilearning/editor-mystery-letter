@@ -1,20 +1,20 @@
 <h2 class="c-project-heading--task">Style the words</h2>
 
-### Step 1
-
 Add the `magazine1` **class** to style the first `<span>` tag.
 
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
 
-
-<div class="c-project-callout c-project-callout--tip">
+## Step 1
 
 ### Tip
+
+<div class="c-project-callout c-project-callout--tip">
 
 A class in HTML/CSS is a name you give to something so you can change how it looks.
 
 </div>
 
-### Step 2
+## Step 2
 
 Try out different styles. For example, swap `magazine1` for `magazine2`, or `newspaper`.
 
@@ -37,7 +37,7 @@ line_highlights: 12-14
 
 </div>
 
-### Step 3
+## Step 3
 
 Click **Run** to see how the words change. Keep trying different style class names until you find one you like.
 
@@ -47,3 +47,7 @@ Click **Run** to see how the words change. Keep trying different style class nam
 ![The message 'Meet me on the corner at midnight.' The first word is written in capitals in a white font on a green background.](images/step3.png)
 
 </div>
+
+## Now run your code
+
+Confirm the observable result.

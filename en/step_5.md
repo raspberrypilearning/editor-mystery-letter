@@ -1,12 +1,10 @@
 <h2 class="c-project-heading--task">Challenges</h2>
 
-### Step 1
+Now look for the other CSS classes that you used to style your mystery letter.
 
-Now look for the other CSS classes that you used to style your mystery letter. 
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
 
-
-
-### Step 2
+## Step 1
 
 In `newspaper`, experiment with changing the font. Replace `Times` with another font such as `Comic Sans MS`, `Chalkboard`, `Impact`, `Courier New`
 
@@ -28,9 +26,7 @@ line_highlights: 34
 
 </div>
 
-
-
-### Step 3
+## Step 2
 
 Try transforming `magazine1` style changes the text to all uppercase (capital) letters?
 
@@ -54,9 +50,7 @@ line_highlights: 43
 
 </div>
 
-
-
-### Step 4
+## Step 3
 
 Change the `background-image` for `magazine2` to `canvas.png`. 
 
@@ -82,10 +76,14 @@ line_highlights: 47
 
 
 
-<div class="c-project-callout c-project-callout--tip">
-
 ### Tip
+
+<div class="c-project-callout c-project-callout--tip">
 
 You can see all the project images and file names by clicking on the image gallery icon. Use that name in your CSS.
 
 </div>
+
+## Now run your code
+
+Confirm the observable result.

@@ -1,11 +1,10 @@
 <h2 class="c-project-heading--task">Make a message</h2>
 
-### Step 1
+Think of your own mystery message and add it to the code.
 
-Think of your own mystery message and add it to the code. 
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
 
-
-### Step 2
+## Step 1
 
 Change the example code to display your message by putting one word in each `<span>`. You will need to add or remove `<span>` tags if your message is a different length. 
 
@@ -33,7 +32,7 @@ line_highlights: 12-19
 
 </div>
 
-### Step 3
+## Step 2
 
 Click the **Run** button to test your code. See how the words have been styled to look like they’ve been stuck onto the page.
 
@@ -44,3 +43,7 @@ Click the **Run** button to test your code. See how the words have been styled t
 ![ADD](images/step2.png)
 
 </div>
+
+## Now run your code
+
+Confirm the observable result.

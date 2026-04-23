@@ -1,21 +1,18 @@
-
 <h2 class="c-project-heading--task">Edit the CSS</h2>
-
-### Step 1
 
 Edit the CSS properties in **style.css** to change the size and slant of your words.
 
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
 
-
-### Step 2
+## Step 1
 
 Click on the file icon, and then the **style.css** file. This will open a new tab.
 
+<div class="c-project-output">
 ![Screen shot of editor](images/style-file.png)
+</div>
 
-
-
-### Step 3
+## Step 2
 
 In the **style.css** file, change how your words look by editing the properties. You can edit the `font-size`, or the `rotate` and `tilt` values. 
 
@@ -65,7 +62,8 @@ line_highlights: 53,58,63,69,73,77,81
 
 </div>
 
-### Step 4
+## Step 3
+
 Click **Run** to see the changes. Experiment by changing the numbers to create different effects.
 
 
@@ -74,3 +72,7 @@ Click **Run** to see the changes. Experiment by changing the numbers to create d
 ![A mystery letter with multiple different styles, one for each word.](images/step5.png)
 
 </div>
+
+## Now run your code
+
+Confirm the observable result.
