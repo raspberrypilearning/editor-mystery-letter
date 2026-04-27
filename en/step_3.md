@@ -46,4 +46,4 @@ Click **Run** to see how your letter looks. Here is an example of how your lette
 
 ## Now run your code
 
-Confirm the observable result.
+Click **Run** and check that your letter now uses a mix of different sizes and rotations.

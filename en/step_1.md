@@ -46,4 +46,4 @@ Click the **Run** button to test your code. See how the words have been styled t
 
 ## Now run your code
 
-Confirm the observable result.
+Click the **Run** button and check that the words look like different cut-out pieces stuck onto the page.

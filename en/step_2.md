@@ -50,4 +50,4 @@ Click **Run** to see how the words change. Keep trying different style class nam
 
 ## Now run your code
 
-Confirm the observable result.
+Click **Run** and check that the words use the different style classes you chose.

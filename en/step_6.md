@@ -37,4 +37,4 @@ Click **Run** and check at least one word uses your printout style and at least 
 
 ## Now run your code
 
-Confirm the observable result.
+Click **Run** and check that at least one word uses your computer printout style and at least one word uses your own new style.

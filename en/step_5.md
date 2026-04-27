@@ -86,4 +86,4 @@ You can see all the project images and file names by clicking on the image galle
 
 ## Now run your code
 
-Confirm the observable result.
+Click **Run** and check that the words using your new class now show the new print style you added.

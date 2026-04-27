@@ -75,4 +75,4 @@ Click **Run** to see the changes. Experiment by changing the numbers to create d
 
 ## Now run your code
 
-Confirm the observable result.
+Click **Run** and check that some words now tilt or slant in different directions.
