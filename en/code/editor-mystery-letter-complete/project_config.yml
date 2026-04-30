@@ -1,0 +1,4 @@
+name: 'Mystery letter - complete'
+identifier: 'editor-mystery-letter-complete'
+type: 'html'
+build: true

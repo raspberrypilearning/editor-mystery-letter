@@ -1,14 +1,33 @@
-title: Project title in sentence case
+---
 hero_image: images/banner.png
-description: A short description of the project
+theme: yellow
+duration: 2
 listed: false
-pdf: false
+ingredient: false
+copyedit: false
+curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
+title: Mystery Letter
+description: Create a mystery letter with lots of different styles.
+original_url: https://codeclubprojects.org/en-GB/webdev/mystery-letter
+interests: art
+technologies: html-css-javascript
+site_areas: projects
+hardware: ''
+software: html-css-javascript
+version: 3.1
+last_tested: 2025-01-02
+landing: true
 steps:
-  - title: What you will make
-  - title: Step title
+  - title: Make a message
+  - title: Style the words
     completion:
-      - engaged      
-  - title: Challenge
-    challenge: true
+      - engaged
+  - title: "Resize, rotate and tilt words"
+  - title: Edit the CSS
+    completion:
+      - internal
+  - title: Challenges
     completion:
       - external
+  - title: "More challenge: make a style"
+    challenge: true

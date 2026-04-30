@@ -1,45 +1,49 @@
-## What you will make
-OR
-## What you will do - change meta if you use this
+<h2 class="c-project-heading--task">Make a message</h2>
 
-A brief description - one or two sentences. 
+Think of your own mystery message and add it to the code.
 
---- print-only ---
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
 
-![ALT TEXT](images/IMAGE.png)
+## Step 1
 
---- /print-only ---
+Change the example code to display your message by putting one word in each `<span>`. You will need to add or remove `<span>` tags if your message is a different length. 
 
---- no-print ---
 
-[Editor embed](https://editor.raspberrypi.org/en/embed/viewer/project-slug)
+<div class="c-project-code">
+--- code ---
+---
+language: html
+filename: index.html
+line_numbers: true
+line_number_start: 11
+line_highlights: 12-19
+---
+<p>
+  <span class="">Beware</span>
+  <span class="">of</span>
+  <span class="">the</span>
+  <span class="">llamas</span>
+  <span class="">they</span>
+  <span class="">know</span>
+  <span class="">too</span>
+  <span class="">much.</span>
+</p>
+--- /code ---
 
---- /no-print ---
-
---- no-print ---
-
-Video embed
-
-<video width="640" height="360" controls>
-<source src="images/videoname.mp4" type="video/mp4">
-</video>
-
-Youtube embed 
-<html>
-<div style="position: relative; overflow: hidden; padding-top: 56.25%;">
-<iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/XXXXXXXXX?rel=0&cc_load_policy=1" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share">
-</iframe>
-</div><br>
-</html>
-
-Scratch embed
-<div class="scratch-preview">
- <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/XXXXXXXXX/?autostart=false" frameborder="0"></iframe>
 </div>
 
---- /no-print ---
+## Step 2
 
-### You will need:
-- a
-- b
-- c
+Click the **Run** button to test your code. See how the words have been styled to look like they’ve been stuck onto the page.
+
+
+
+<div class="c-project-output">
+
+![ADD](images/step2.png)
+
+</div>
+
+## Now run your code
+
+Click the **Run** button and check that the words look like different cut-out pieces stuck onto the page.
