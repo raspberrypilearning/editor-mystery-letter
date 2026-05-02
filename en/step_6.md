@@ -8,7 +8,7 @@ Create a computer printout style and invent your own extra style for your myster
 
 Create a new class for an old-fashioned computer printout style:
 
-- Use the `VT323` font from [http://jumpto.cc/web-fonts](http://jumpto.cc/web-fonts){:target="_blank"}
+- Use the `courier` font.
 - Use the `computer-paper.png` background image
 
 <div class="c-project-code">
