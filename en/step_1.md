@@ -38,7 +38,7 @@ Click on the **Run** button to test your code. See how the words have been style
 
 <div class="c-project-output">
 
-![The message "Replace these words with your own mystery message." in the preview panel. Each word looks like it has been cut out separately from a printed source.](images/step2.png)
+![The message "Replace these words with your own mystery message." in the preview panel. Each word looks like it has been cut out separately from a printed source.](images/step1.png)
 
 </div>
 
