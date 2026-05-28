@@ -2,8 +2,6 @@
 
 Create a computer printout style and invent your own extra style for your mystery letter.
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 ## Step 1
 
 Create a new class for the style of an old-fashioned computer printout:
