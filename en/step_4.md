@@ -2,8 +2,6 @@
 
 Edit the CSS properties in **style.css** to change the size and slant of your words.
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 ## Step 1
 
 Click on the **Project files** icon, and then the **style.css** file. This will open a new tab.
