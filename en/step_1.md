@@ -2,11 +2,9 @@
 
 Think of your own mystery message and add it to the code.
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 ## Step 1
 
-Change the example code to display your message by putting one word in each `<span>`. You will need to add or remove `<span>` tags if your message is a different length. 
+Change the example code to display your message by putting one word in each `<span>`. If your message is a different length, you will need to add or remove `<span>` tags.
 
 
 <div class="c-project-code">
@@ -34,16 +32,16 @@ line_highlights: 12-19
 
 ## Step 2
 
-Click the **Run** button to test your code. See how the words have been styled to look like they’ve been stuck onto the page.
+Click on the **Run** button to test your code. See how the words have been styled to look like they have been stuck onto the page.
 
 
 
 <div class="c-project-output">
 
-![ADD](images/step2.png)
+![The message "Replace these words with your own mystery message." in the preview panel. Each word looks like it has been cut out separately from a printed source.](images/step2.png)
 
 </div>
 
 ## Now run your code
 
-Click the **Run** button and check that the words look like different cut-out pieces stuck onto the page.
+Click on the **Run** button and check that the words look like different cut-out pieces stuck onto the page.

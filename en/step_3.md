@@ -1,16 +1,18 @@
-<h2 class="c-project-heading--task">Resize, rotate and tilt words</h2>
+<h2 class="c-project-heading--task">Resize, rotate, and tilt words</h2>
 
-Add the `big` class to the same `<span>` tag.
-
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
+Add classes to change the size and rotation of your words.
 
 ## Step 1
 
+Choose a word and add the `big` class to the same `<span>` tag.
+
+## Step 2
+
 Experiment with adding other classes to the `<span>` tags in your message: 
 
-+ `medium`, `big` or `reallybig` change the size.
-+ `rotateleft`, `rotateright` rotates.
-+ `tiltleft`, `tiltright` distorts the words
++ `medium`, `big`, or `reallybig` change the size
++ `rotateleft` and `rotateright` rotate the words
++ `tiltleft` and `tiltright` distort the words
 
 
 
@@ -33,17 +35,17 @@ line_highlights: 12-14
 
 </div>
 
-## Step 2
+## Step 3
 
-Click **Run** to see how your letter looks. Here is an example of how your letter could look:
+Click on **Run** to see how your letter looks. Here is an example of how your letter could look:
 
 
 <div class="c-project-output">
 
-![A mystery letter with multiple different styles, one for each word.](images/step4.png)
+![The words in the message are now different sizes, and some words are tilted and rotated.](images/step4.png)
 
 </div>
 
 ## Now run your code
 
-Click **Run** and check that your letter now uses a mix of different sizes and rotations.
+Click on **Run** and check that your letter now uses a mix of different sizes and rotations.
