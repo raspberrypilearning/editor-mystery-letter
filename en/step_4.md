@@ -6,15 +6,15 @@ Edit the CSS properties in **style.css** to change the size and slant of your wo
 
 ## Step 1
 
-Click on the file icon, and then the **style.css** file. This will open a new tab.
+Click on the **Project files** icon, and then the **style.css** file. This will open a new tab.
 
 <div class="c-project-output">
-![Screen shot of editor](images/style-file.png)
+![style.css open in a new tab in the editor.](images/style-file.png)
 </div>
 
 ## Step 2
 
-In the **style.css** file, change how your words look by editing the properties. You can edit the `font-size`, or the `rotate` and `tilt` values. 
+In the **style.css** file, edit the properties to change how your words look. You can edit the `font-size`, or the `rotate` and `tilt` values. 
 
 
 <div class="c-project-code">
@@ -64,15 +64,15 @@ line_highlights: 53,58,63,69,73,77,81
 
 ## Step 3
 
-Click **Run** to see the changes. Experiment by changing the numbers to create different effects.
+Click on **Run** to see the changes. Experiment by changing the numbers to create different effects.
 
 
 <div class="c-project-output">
 
-![A mystery letter with multiple different styles, one for each word.](images/step5.png)
+![The sizes and rotations of the words have now changed.](images/step5.png)
 
 </div>
 
 ## Now run your code
 
-Click **Run** and check that some words now tilt or slant in different directions.
+Click on **Run** and check that some words are now rotated or tilted differently.

@@ -1,22 +1,24 @@
 <h2 class="c-project-heading--task">Style the words</h2>
 
-Add the `magazine1` **class** to style the first `<span>` tag.
-
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
-## Step 1
+Add **classes** to style your words.
 
 ### Tip
 
 <div class="c-project-callout c-project-callout--tip">
 
-A class in HTML/CSS is a name you give to something so you can change how it looks.
+A class in HTML/CSS is a name you give to something so that you can change how it looks.
 
 </div>
 
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
+
+## Step 1
+
+Add the `magazine1` class to style the first `<span>` tag.
+
 ## Step 2
 
-Try out different styles. For example, swap `magazine1` for `magazine2`, or `newspaper`.
+Try out different styles for each word. For example, swap `magazine1` for `magazine2` or `newspaper`.
 
 <div class="c-project-code">
 --- code ---
@@ -39,15 +41,15 @@ line_highlights: 12-14
 
 ## Step 3
 
-Click **Run** to see how the words change. Keep trying different style class names until you find one you like.
+Click on **Run** to see how the words change. Keep trying different style class names until you find one you like.
 
 
 <div class="c-project-output">
 
-![The message 'Meet me on the corner at midnight.' The first word is written in capitals in a white font on a green background.](images/step3.png)
+![The message "Beware of the llamas they know too much." with each word in one of three different styles. The first word is written in white on a green background. The second word is written in black on a cream background. The third word is written in pink on a lighter-pink background.](images/step3.png)
 
 </div>
 
 ## Now run your code
 
-Click **Run** and check that the words use the different style classes you chose.
+Click on **Run** and check that the words use the different style classes you chose.

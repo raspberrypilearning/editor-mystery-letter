@@ -1,4 +1,4 @@
-<h2 class="c-project-heading--task">More challenge: make a style</h2>
+<h2 class="c-project-heading--task">More challenges: make a style</h2>
 
 Create a computer printout style and invent your own extra style for your mystery letter.
 
@@ -6,9 +6,9 @@ Create a computer printout style and invent your own extra style for your myster
 
 ## Step 1
 
-Create a new class for an old-fashioned computer printout style:
+Create a new class for the style of an old-fashioned computer printout:
 
-- Use the `courier` font.
+- Use the `courier` font
 - Use the `computer-paper.png` background image
 
 <div class="c-project-code">
@@ -29,12 +29,12 @@ line_numbers: false
 
 </div>
 
-Then, add `class="computer"` to one or more words in your html message.
+Then, add `class="computer"` to one or more words in your HTML message.
 
 ## Step 2
 
-Click **Run** and check at least one word uses your printout style and at least one word uses your own new style.
+Click on **Run** and check at least one word uses your printout style and at least one word uses your own new style.
 
 ## Now run your code
 
-Click **Run** and check that at least one word uses your computer printout style and at least one word uses your own new style.
+Click on **Run** and check that at least one word uses your computer printout style and at least one word uses your own new style.
