@@ -2,8 +2,6 @@
 
 Think of your own mystery message and add it to the code.
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 ## Step 1
 
 Change the example code to display your message by putting one word in each `<span>`. If your message is a different length, you will need to add or remove `<span>` tags.
