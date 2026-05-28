@@ -2,8 +2,6 @@
 
 Now edit the other CSS classes that you used to style your mystery letter.
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 ## Step 1
 
 In `newspaper`, experiment with changing the font. Replace `Times` with another font, such as `Comic Sans MS`, `Chalkboard`, `Impact`, or `Courier New`.
