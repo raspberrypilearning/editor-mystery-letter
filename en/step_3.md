@@ -42,7 +42,7 @@ Click on **Run** to see how your letter looks. Here is an example of how your le
 
 <div class="c-project-output">
 
-![The words in the message are now different sizes, and some words are tilted and rotated.](images/step4.png)
+![The words in the message are now different sizes, and some words are tilted and rotated.](images/step3.png)
 
 </div>
 

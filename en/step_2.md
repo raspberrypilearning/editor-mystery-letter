@@ -44,7 +44,7 @@ Click on **Run** to see how the words change. Keep trying different style class 
 
 <div class="c-project-output">
 
-![The message "Beware of the llamas they know too much." with each word in one of three different styles. The first word is written in white on a green background. The second word is written in black on a cream background. The third word is written in pink on a lighter-pink background.](images/step3.png)
+![The message "Beware of the llamas they know too much." with each word in one of three different styles. The first word is written in white on a green background. The second word is written in black on a cream background. The third word is written in pink on a lighter-pink background.](images/step2.png)
 
 </div>
 
