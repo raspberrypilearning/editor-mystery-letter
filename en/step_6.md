@@ -2,8 +2,6 @@
 
 Create a computer printout style and invent your own extra style for your mystery letter.
 
-## Step 1
-
 Create a new class for the style of an old-fashioned computer printout:
 
 - Use the `courier` font
@@ -28,10 +26,6 @@ line_numbers: false
 </div>
 
 Then, add `class="computer"` to one or more words in your HTML message.
-
-## Step 2
-
-Click on **Run** and check at least one word uses your printout style and at least one word uses your own new style.
 
 ## Now run your code
 
