@@ -21,8 +21,8 @@ In the **style.css** file, edit the properties to change how your words look. Yo
 language: css
 filename: style.css
 line_numbers: true
-line_number_start: 50
-line_highlights: 53,58,63,69,73,77,81
+line_number_start: 1
+line_highlights:
 ---
 
 .medium {
