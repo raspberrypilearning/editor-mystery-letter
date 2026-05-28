@@ -67,7 +67,7 @@ Click on **Run** to see the changes. Experiment by changing the numbers to creat
 
 <div class="c-project-output">
 
-![The sizes and rotations of the words have now changed.](images/step5.png)
+![The sizes and rotations of the words have now changed.](images/step4.png)
 
 </div>
 
