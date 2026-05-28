@@ -1,8 +1,6 @@
 <h2 class="c-project-heading--task">More challenges: make a style</h2>
 
-Create a computer printout style and invent your own extra style for your mystery letter.
-
-Create a new class for the style of an old-fashioned computer printout:
+Create a new class to create the style of an old-fashioned computer printout:
 
 - Use the `courier` font
 - Use the `computer-paper.png` background image
@@ -29,4 +27,4 @@ Then, add `class="computer"` to one or more words in your HTML message.
 
 ## Now run your code
 
-Click on **Run** and check that at least one word uses your computer printout style and at least one word uses your own new style.
+Click on **Run** and check that at least one word uses your computer printout style.

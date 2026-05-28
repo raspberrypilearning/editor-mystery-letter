@@ -10,8 +10,6 @@ A class in HTML/CSS is a name you give to something so that you can change how i
 
 </div>
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 ## Step 1
 
 Add the `magazine1` class to style the first `<span>` tag.
