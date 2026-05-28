@@ -2,8 +2,6 @@
 
 Add classes to change the size and rotation of your words.
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 ## Step 1
 
 Choose a word and add the `big` class to the same `<span>` tag.
