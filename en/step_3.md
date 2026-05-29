@@ -13,7 +13,7 @@ language: html
 filename: index.html
 line_numbers: true
 line_number_start: 11
-line_highlights: 13
+line_highlights: 12
 ---
 <p>
   <span class="magazine1 big">Beware</span>
