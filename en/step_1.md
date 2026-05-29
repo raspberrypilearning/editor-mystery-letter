@@ -1,11 +1,12 @@
 <h2 class="c-project-heading--task">Make a message</h2>
 
-Think of your own mystery message and add it to the code.
-
 ## Step 1
 
-Change the example code to display your message by putting one word in each `<span>`. If your message is a different length, you will need to add or remove `<span>` tags.
+Think of your own mystery message to add to the code.
 
+## Step 2
+
+Change the example code to display your message by putting one word in each `<span>`. If your message is a different length, you will need to add or remove `<span>` tags.
 
 <div class="c-project-code">
 --- code ---

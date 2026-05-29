@@ -7,13 +7,14 @@ Edit the CSS properties in **style.css** to change the size and slant of your wo
 Click on the **Project files** icon, and then the **style.css** file. This will open a new tab.
 
 <div class="c-project-output">
+
 ![style.css open in a new tab in the editor.](images/style-file.png)
+
 </div>
 
 ## Step 2
 
 In the **style.css** file, edit the properties to change how your words look. You can edit the `font-size`, or the `rotate` and `tilt` values. 
-
 
 <div class="c-project-code">
 --- code ---
@@ -22,9 +23,8 @@ language: css
 filename: style.css
 line_numbers: true
 line_number_start: 1
-line_highlights:
+line_highlights: 3,8,13,19,23,27,31
 ---
-
 .medium {
   font-size: 24px;
   padding: 10px;
@@ -60,9 +60,9 @@ line_highlights:
 
 </div>
 
-## Step 3
+## Now run your code
 
-Click on **Run** to see the changes. Experiment by changing the numbers to create different effects.
+Click on **Run** and check that some words are now rotated or tilted differently. Experiment by changing the numbers to create different effects.
 
 
 <div class="c-project-output">
@@ -71,6 +71,3 @@ Click on **Run** to see the changes. Experiment by changing the numbers to creat
 
 </div>
 
-## Now run your code
-
-Click on **Run** and check that some words are now rotated or tilted differently.

@@ -6,6 +6,23 @@ Add classes to change the size and rotation of your words.
 
 Choose a word and add the `big` class to the same `<span>` tag.
 
+<div class="c-project-code">
+--- code ---
+---
+language: html
+filename: index.html
+line_numbers: true
+line_number_start: 11
+line_highlights: 13
+---
+<p>
+  <span class="magazine1 big">Beware</span>
+  <span class="newspaper">of</span>
+  <span class="magazine2">the</span>
+--- /code ---
+
+</div>
+
 ## Step 2
 
 Experiment with adding other classes to the `<span>` tags in your message: 
@@ -15,7 +32,6 @@ Experiment with adding other classes to the `<span>` tags in your message:
 + `tiltleft` and `tiltright` distort the words
 
 
-
 <div class="c-project-code">
 --- code ---
 ---
@@ -23,7 +39,7 @@ language: html
 filename: index.html
 line_numbers: true
 line_number_start: 11
-line_highlights: 12-14
+line_highlights: 13-14
 ---
 
 <p>
@@ -35,9 +51,10 @@ line_highlights: 12-14
 
 </div>
 
-## Step 3
 
-Click on **Run** to see how your letter looks. Here is an example of how your letter could look:
+## Now run your code
+
+Click on **Run** and check that your letter now uses a mix of different sizes and rotations.
 
 
 <div class="c-project-output">
@@ -45,7 +62,3 @@ Click on **Run** to see how your letter looks. Here is an example of how your le
 ![The words in the message are now different sizes, and some words are tilted and rotated.](images/step3.png)
 
 </div>
-
-## Now run your code
-
-Click on **Run** and check that your letter now uses a mix of different sizes and rotations.
