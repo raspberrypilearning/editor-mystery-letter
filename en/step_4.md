@@ -23,7 +23,7 @@ language: css
 filename: style.css
 line_numbers: true
 line_number_start: 1
-line_highlights: 3, 8, 13, 19, 23, 27, 31
+line_highlights: 2, 7, 12, 17, 21, 25, 29
 ---
 .medium {
   font-size: 24px;
