@@ -2,9 +2,9 @@
 
 Add **classes** to style your words.
 
-### Tip
-
 <div class="c-project-callout c-project-callout--tip">
+
+### Tip
 
 A class in HTML/CSS is a name you give to something so that you can change how it looks.
 
