@@ -37,7 +37,7 @@ Click on the **Run** button and check that the words look like different cut-out
 
 <div class="c-project-output">
 
-![The message "Replace these words with your own mystery message." in the preview panel. Each word looks like it has been cut out separately from a printed source.](images/step1.png)
+![The message "Beware of the llamas they know too much." in the preview panel. Each word looks like it has been cut out separately from a printed source.](images/step1.png)
 
 </div>
 
