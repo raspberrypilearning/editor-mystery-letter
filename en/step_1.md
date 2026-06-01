@@ -1,11 +1,12 @@
 <h2 class="c-project-heading--task">Make a message</h2>
 
-Think of your own mystery message and add it to the code.
-
 ## Step 1
 
-Change the example code to display your message by putting one word in each `<span>`. If your message is a different length, you will need to add or remove `<span>` tags.
+Think of your own mystery message to add to the code.
 
+## Step 2
+
+Change the example code to display your message by putting one word in each `<span>`. If your message is a different length, you will need to add or remove `<span>` tags.
 
 <div class="c-project-code">
 --- code ---
@@ -30,11 +31,9 @@ line_highlights: 12-19
 
 </div>
 
-## Step 2
+## Now run your code
 
-Click on the **Run** button to test your code. See how the words have been styled to look like they have been stuck onto the page.
-
-
+Click on the **Run** button and check that the words look like different cut-out pieces stuck onto the page.
 
 <div class="c-project-output">
 
@@ -42,6 +41,4 @@ Click on the **Run** button to test your code. See how the words have been style
 
 </div>
 
-## Now run your code
 
-Click on the **Run** button and check that the words look like different cut-out pieces stuck onto the page.

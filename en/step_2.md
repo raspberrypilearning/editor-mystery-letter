@@ -2,9 +2,9 @@
 
 Add **classes** to style your words.
 
-### Tip
-
 <div class="c-project-callout c-project-callout--tip">
+
+### Tip
 
 A class in HTML/CSS is a name you give to something so that you can change how it looks.
 
@@ -13,6 +13,25 @@ A class in HTML/CSS is a name you give to something so that you can change how i
 ## Step 1
 
 Add the `magazine1` class to style the first `<span>` tag.
+
+<div class="c-project-code">
+--- code ---
+---
+language: html
+filename: index.html
+line_numbers: true
+line_number_start: 11
+line_highlights: 12
+---
+
+<p>
+  <span class="magazine1">Beware</span>
+  <span class="">of</span>
+  <span class="">the</span>
+
+--- /code ---
+
+</div>
 
 ## Step 2
 
@@ -25,7 +44,7 @@ language: html
 filename: index.html
 line_numbers: true
 line_number_start: 11
-line_highlights: 12-14
+line_highlights: 13-14
 ---
 
 <p>
@@ -37,7 +56,7 @@ line_highlights: 12-14
 
 </div>
 
-## Step 3
+## Now run your code
 
 Click on **Run** to see how the words change. Keep trying different style class names until you find one you like.
 
@@ -48,6 +67,3 @@ Click on **Run** to see how the words change. Keep trying different style class 
 
 </div>
 
-## Now run your code
-
-Click on **Run** and check that the words use the different style classes you chose.

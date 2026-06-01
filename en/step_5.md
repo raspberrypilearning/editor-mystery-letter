@@ -1,8 +1,8 @@
-<h2 class="c-project-heading--task">Challenges</h2>
+<h2 class="c-project-heading--task">Challenge: CSS styling</h2>
 
-Now edit the other CSS classes that you used to style your mystery letter.
+Edit the other CSS classes that you used to style your mystery letter.
 
-## Step 1
+## Experiment with the font
 
 In `newspaper`, experiment with changing the font. Replace `Times` with another font, such as `Comic Sans MS`, `Chalkboard`, `Impact`, or `Courier New`.
 
@@ -24,7 +24,7 @@ line_highlights: 34
 
 </div>
 
-## Step 2
+## Text to uppercase
 
 Try transforming the `magazine1` style to change the text to all uppercase (capital) letters.
 
@@ -48,7 +48,7 @@ line_highlights: 43
 
 </div>
 
-## Step 3
+## Change the image
 
 Change the `background-image` for `magazine2` to `canvas.png`. 
 
@@ -72,16 +72,15 @@ line_highlights: 47
 
 </div>
 
+## Now run your code
 
-
-### Tip
+Click on **Run** and check that the words using your edited classes now show the new print styles you created.
 
 <div class="c-project-callout c-project-callout--tip">
+
+### Tip
 
 To see all the project images and file names, click on the **Image gallery** icon. Use those names in your CSS.
 
 </div>
 
-## Now run your code
-
-Click on **Run** and check that the words using your edited classes now show the new print styles you created.
