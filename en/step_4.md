@@ -1,4 +1,4 @@
-<h2 class="c-project-heading--task">Edit the CSS</h2>
+## Edit the CSS
 
 Edit the CSS properties in **style.css** to change the size and slant of your words.
 
@@ -6,25 +6,13 @@ Edit the CSS properties in **style.css** to change the size and slant of your wo
 
 Click on the **Project files** icon, and then the **style.css** file. This will open a new tab.
 
-<div class="c-project-output">
-
 ![style.css open in a new tab in the editor.](images/style-file.png)
-
-</div>
 
 ## Step 2
 
-In the **style.css** file, edit the properties to change how your words look. You can edit the `font-size`, or the `rotate` and `tilt` values. 
+In the **style.css** file, edit the properties to change how your words look. You can edit the `font-size`, or the `rotate` and `tilt` values.
 
-<div class="c-project-code">
---- code ---
----
-language: css
-filename: style.css
-line_numbers: true
-line_number_start: 1
-line_highlights: 2, 7, 12, 17, 21, 25, 29
----
+```css filename="style.css" line_numbers="true" line_number_start="1" line_highlights="2,7,12,17,21,25,29"
 .medium {
   font-size: 24px;
   padding: 10px;
@@ -55,19 +43,10 @@ line_highlights: 2, 7, 12, 17, 21, 25, 29
 .tiltright {
   transform: skewX(-18deg);
 }
-
---- /code ---
-
-</div>
+```
 
 ## Now run your code
 
 Click on **Run** and check that some words are now rotated or tilted differently. Experiment by changing the numbers to create different effects.
 
-
-<div class="c-project-output">
-
 ![The sizes and rotations of the words have now changed.](images/step4.png)
-
-</div>
-

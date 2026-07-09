@@ -1,4 +1,4 @@
-<h2 class="c-project-heading--task">Make a message</h2>
+## Make a message
 
 ## Step 1
 
@@ -8,15 +8,7 @@ Think of your own mystery message to add to the code.
 
 Change the example code to display your message by putting one word in each `<span>`. If your message is a different length, you will need to add or remove `<span>` tags.
 
-<div class="c-project-code">
---- code ---
----
-language: html
-filename: index.html
-line_numbers: true
-line_number_start: 11
-line_highlights: 12-19
----
+```html filename="index.html" line_numbers="true" line_number_start="11" line_highlights="12-19"
 <p>
   <span class="">Beware</span>
   <span class="">of</span>
@@ -27,18 +19,10 @@ line_highlights: 12-19
   <span class="">too</span>
   <span class="">much.</span>
 </p>
---- /code ---
-
-</div>
+```
 
 ## Now run your code
 
 Click on the **Run** button and check that the words look like different cut-out pieces stuck onto the page.
 
-<div class="c-project-output">
-
 ![The message "Beware of the llamas they know too much." in the preview panel. Each word looks like it has been cut out separately from a printed source.](images/step1.png)
-
-</div>
-
-
